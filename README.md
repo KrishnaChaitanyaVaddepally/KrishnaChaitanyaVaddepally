@@ -1,22 +1,41 @@
-<h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+# Hello, I'm [Krishna] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnachaitanyavaddepally&label=Profile%20views&color=0e75b6&style=flat" alt="krishnachaitanyavaddepally" /> </p>
+I'm a passionate Data Scientist with a keen interest in solving complex problems through data-driven approaches. Welcome to my GitHub profile!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnachaitanyavaddepally" alt="krishnachaitanyavaddepally" /></a> </p>
+## 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🎓 Master's in [Aerospace Engineering], [Indian Institute of Technolgy,Kanpur]
+- 💼 Currently working as a Data at [Turno]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔧 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnachaitanyavaddepally&show_icons=true&locale=en&layout=compact" alt="krishnachaitanyavaddepally" /></p>
+- **Programming Languages:** Python
+- **Machine Learning Frameworks:** TensorFlow, PyTorch, scikit-learn
+- **Deep Learning:** Neural Networks, CNNs, RNNs, GANs
+- **Data Science:** Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering
+- **Tools:** Git, Docker, Jupyter Notebooks
+- **Cloud Platforms:** AWS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnachaitanyavaddepally&show_icons=true&locale=en" alt="krishnachaitanyavaddepally" /></p>
+## 🌱 What I'm Currently Learning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachaitanyavaddepally&" alt="krishnachaitanyavaddepally" /></p>
+- Exploring advanced topics in Natural Language Processing (NLP)
+- Improving skills in model deployment and scalability
+- Staying updated with the latest research in machine learning and AI
 
+
+## 📚 Projects
+
+Here are a few projects that I'm proud of:
+
+- [Project 1]([link-to-project-1](https://github.com/KrishnaChaitanyaVaddepally/mlproject#:~:text=/-,mlproject,-Type)): Short description.
+- [Project 2]([link-to-project-2](https://github.com/KrishnaChaitanyaVaddepally/GenAI-Projects#:~:text=/-,GenAI%2DProjects,-Type)): Short description.
+
+Explore more on my [GitHub Repositories](https://github.com/KrishnaChaitanyaVaddepally).
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/krishnachaitanya2806/)
+
+
+Feel free to reach out for collaboration, discussion, or just to say hi! 😊
