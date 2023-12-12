@@ -1,10 +1,10 @@
-# Hello, I'm [Krishna] 👋
+# Hello, I'm Krishna 👋
 
 I'm a passionate Data Scientist with a keen interest in solving complex problems through data-driven approaches. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🎓 Master's in Aerospace Engineering, Indian Institute of Technolgy,Kanpur'
+- 🎓 Master's in Aerospace Engineering, Indian Institute of Technolgy, Kanpur'
 - 💼 Currently working as a Data Scientist at Turno
 
 
