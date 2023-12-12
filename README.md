@@ -5,7 +5,7 @@ I'm a passionate Data Scientist with a keen interest in solving complex problems
 ## 🚀 About Me
 
 - 🎓 Master's in [Aerospace Engineering], [Indian Institute of Technolgy,Kanpur]
-- 💼 Currently working as a Data at [Turno]
+- 💼 Currently working as a Data Scientist at [Turno]
 
 
 ## 🔧 Skills
